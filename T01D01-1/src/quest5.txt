@@ -1,4 +1,0 @@
-cd  door_management_files
-cd door_configuration
-nano door_1.conf
-Изменяю статус CLOSED на  OPEN, сохраняю.
